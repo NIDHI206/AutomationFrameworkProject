@@ -16,6 +16,7 @@ public class BaseTest implements IAutoConstant{
 	static{
 		System.setProperty(GECKO_KEY, GECKO_VALUE);
 		System.setProperty(CHROME_KEY, CHROME_VALUE);
+		//
 	}
 	@BeforeMethod
 	public void openApplication(){

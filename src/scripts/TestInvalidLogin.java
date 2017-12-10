@@ -1,7 +1,5 @@
 package scripts;
 import org.testng.annotations.Test;
-import org.testng.asserts.SoftAssert;
-
 import generic.BaseTest;
 import generic.Lib;
 import pompages.LoginPage;
